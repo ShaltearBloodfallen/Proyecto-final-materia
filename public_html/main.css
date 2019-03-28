@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 27, 2019, 8:16:48 PM
+    Author     : fr.pena
+*/
+
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 14%;
+    width: 100%;
+    background-color: #2b99ce;
+
+}
+.btn-position{
+    right: 0 !important;
+}
+
+.header .btn-find {
+    background-color: #008CBA; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    top: 25%;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 8%;
+    width: 100%;
+    background-color: #626262;
+
+}
+
+.footer p {
+    bottom: 4%;
+    font-size: 16pt;
+    color: white;
+    text-align: center;
+}
