@@ -155,6 +155,24 @@ h2{
     
     
 }
+
+.imagen3{
+    position: fixed;
+    top: 60%;
+    left: 40%;   
+    
+    
+    
+}
+
+.imagen4{
+    position: fixed;
+    top: 60%;
+    left: 65%;   
+    
+    
+    
+}
 .footer {
     position: fixed;
     left: 0;
